@@ -2,9 +2,8 @@
 
 Lisp-Stat main system
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/Lisp-Stat/lisp-stat.git   |
-| commit  | 357a0d2  |
-| systems | lisp-stat |
-|---------+-------------------------------------------|
-
+|---------+------------------------------------------------|
+| source  | git:https://github.com/Lisp-Stat/lisp-stat.git |
+| commit  | 3e2a52e                                        |
+| systems | lisp-stat                                      |
+|---------+------------------------------------------------|
