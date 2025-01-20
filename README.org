@@ -4,6 +4,6 @@ Lisp-Stat main system
 
 |---------+------------------------------------------------|
 | source  | git:https://github.com/Lisp-Stat/lisp-stat.git |
-| commit  | b4deca7                                        |
+| commit  | bb63219                                        |
 | systems | lisp-stat                                      |
 |---------+------------------------------------------------|
